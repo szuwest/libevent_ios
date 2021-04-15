@@ -190,3 +190,7 @@ rm -fr "${SRCDIR}/libevent-${VERSION}"
 echo "Done."
 
 ````
+
+
+如果对你有用或许你可以打赏请我喝杯咖啡☕️
+![打赏](https://raw.githubusercontent.com/szuwest/szuwest.github.io/master/images/2018-02-21%20133111.jpg)
